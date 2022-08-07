@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm <a>Slava Orlov</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">iOS developer student. I have a higher education diploma in the field of engineering. For the past 6 years I have worked as a project manager and engineer in the shipbuilding industry </h3>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/></h1>
+<h3 align="center">iOS developer student. I have a higher education diploma in the field of engineering. For the past 6 years I have worked as a project manager and engineer in the shipbuilding industry. </h3>
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
 👋 Hi, I’m Slava Orlov. I have a higher education diploma in the field of engineering. For the past 6 years I have worked as a project manager and engineer in the shipbuilding industry.
 
 👀 I’m interested in learning ios development on Swift.
@@ -21,6 +22,8 @@ Key skills:
 💞️ Looking for a company with interesting and challenging tasks.
 
 📫 How to reach me - email and skype (slava7711240_1)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
