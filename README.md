@@ -5,13 +5,13 @@
 
 👀 I’m interested in learning ios development on Swift.
 
-🌱 Graduated from Alexey Skutarenko's courses, Stanford Swift courses and by SWIFTBOOK (For examples Firebase and VKNewsFeed). I also continue learning by myself.
+🌱 Graduated from Alexey Skutarenko's courses, Stanford Swift courses and by SWIFTBOOK (For examples Firebase and VKNewsFeed). I also continue learning by myself. I create Pet-projects, teach SwiftUI and use it in my projects.
 
 Key skills:
 - Swift and Xcode;
 - While writing a code, I try to follow SOLID principles;
 - Rest API, ARC;
-- I understand how architectural patterns (MVP, MVVM, MVC) work and the difference between them;
+- I understand architectural patterns (MVP, MVVM, MVC) work and used MVC, MVVM and Clean Swift;
 - an experience in Git;
 - iOS SDK (Foundation, UIKit, SwiftUI, MapKit, SnapKit);
 - Worked with Figma and Adobe Photoshop;
