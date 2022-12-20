@@ -1,25 +1,24 @@
 <h1 align="center">Hi there, I'm <a>Slava Orlov</a> 
-<h3 align="center">iOS developer student. I have a higher education diploma in the field of engineering. For the past 6 years I have worked as a project manager and engineer in the shipbuilding industry. </h3>
+<h3 align="center">iOS developer. I discovered mobile development more than 2 year ago and finished several Swift courses. Finished iOS-intensive by Andersen and SummerSchool by Surf. I have been following some IT companies, participating in meetings with developers, webinars and Live-codings. </h3>
 
 ![](https://komarev.com/ghpvc/?username=SlavikOrlov)
 
 👀 I’m interested in learning ios development on Swift.
 
-🌱 Graduated from Alexey Skutarenko's courses, Stanford Swift courses and by SWIFTBOOK (For examples Firebase and VKNewsFeed). I also continue learning by myself. I create Pet-projects, teach SwiftUI and use it in my projects.
+🌱 Graduated from Alexey Skutarenko's courses, Stanford Swift courses and by SWIFTBOOK. All the time continue learning by myself, create applications and Pet-projects.
 
 Key skills:
-- Swift and Xcode;
-- While writing a code, I try to follow SOLID principles;
-- Rest API, ARC;
-- I understand architectural patterns (MVP, MVVM, MVC) work and used MVC, MVVM and Clean Swift;
-- an experience in Git;
-- iOS SDK (Foundation, UIKit, SwiftUI, MapKit, SnapKit);
-- Worked with Figma and Adobe Photoshop;
+- Swift, Xcode, UIKit, SwiftUI
+- MVP + Coordinators, MVC
+- Git, GitHub, Fork
+- SwiftGen, SwiftLint
+- Keychain, REST, NodeKit, Firebase
+- AutoLayout, SnapKit, Storyboard / XIB
+- OOP, SOLID, DRY, KISS, Design patterns
+- Figma, Adobe Photoshop
 - English level B1
 
-💞️ Looking for a company with interesting and challenging tasks.
-
-📫 How to reach me - email and skype (slava7711240_1)
+📫 How to reach me - email and telegram (@hey_SlavaOrlov)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlavikOrlov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
