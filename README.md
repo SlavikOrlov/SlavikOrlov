@@ -1,24 +1,20 @@
 <h1 align="center">Hi there, I'm <a>Slava Orlov</a> 
-<h3 align="center">iOS developer. I discovered mobile development more than 2 year ago and finished several Swift courses. Finished iOS-intensive by Andersen and SummerSchool by Surf. I have been following some IT companies, participating in meetings with developers, webinars and Live-codings. </h3>
+<h3 align="center">iOS developer with experience in the field of e-commerce, I have worked on two large projects with estimates on the AppStore 4️⃣.9️⃣ and with millions of users.</h3>
+<h4 align="center"> I discovered mobile development more than 2 years ago. Finished internships by Andersen and Surf. Also graduated from Swift courses such as Stanford Swift courses, by Alexey Skutarenko and SWIFTBOOK. I follow large IT companies, hold meetings with developers, participate in webinars and livecoding.</h4>
 
 ![](https://komarev.com/ghpvc/?username=SlavikOrlov)
 
-👀 I’m interested in learning ios development on Swift.
-
-🌱 Graduated from Alexey Skutarenko's courses, Stanford Swift courses and by SWIFTBOOK. All the time continue learning by myself, create applications and Pet-projects.
-
-Key skills:
-- Swift, Xcode, UIKit, SwiftUI
+💥 Key skills:
+- Swift, Xcode, UIKit, SwiftUI, MapKit
 - MVP + Coordinators, MVC
-- Git, GitHub, Fork
+- Keychain, REST, NodeKit, Firebase, ReactiveDataDisplayManager
 - SwiftGen, SwiftLint
-- Keychain, REST, NodeKit, Firebase
 - AutoLayout, SnapKit, Storyboard / XIB
-- OOP, SOLID, DRY, KISS, Design patterns
+- OOP, SOLID, Design patterns
 - Figma, Adobe Photoshop
-- English level B1
+- English level C1
 
-📫 How to reach me - email and telegram (@hey_SlavaOrlov)
+📫 How to reach me - email (Slava7711240@gmail.com) and telegram (@hey_SlavaOrlov)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlavikOrlov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
