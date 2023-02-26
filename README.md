@@ -6,12 +6,14 @@
 
 💥 Key skills:
 - Swift, Xcode, UIKit, SwiftUI, MapKit
-- MVP + Coordinators, MVC
+- MVP + Coordinators, MVC, MVVM, VIPER
+- GCD, OperationQueue
 - Keychain, REST, NodeKit, Firebase, ReactiveDataDisplayManager
 - SwiftGen, SwiftLint
 - AutoLayout, SnapKit, Storyboard / XIB
 - OOP, SOLID, Design patterns
 - Figma, Adobe Photoshop
+- Unit / UI tests
 - English level C1
 
 📫 How to reach me - email (Slava7711240@gmail.com) and telegram (@hey_SlavaOrlov)
